@@ -1,5 +1,7 @@
 # ai-seizure-detectives
 
+this code is part of a 4-week project and could need some overhaul, proceed with caution, contact me for any issues. 
+
 ## Environment
 
 In some cases it is necessary to install the Rust compiler for the transformers library.
