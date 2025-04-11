@@ -1,6 +1,6 @@
 # ai-seizure-detectives
 
-This code is the restult of a 4-week project to detect and predict epileptic seizures from EEG data with a transformer model. Please contact me for any questions.
+This code is the result of a 4-week project to detect and predict epileptic seizures from EEG data with a transformer model. Please contact me for any questions.
 
 ## Environment
 
